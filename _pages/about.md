@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer at BOE Technology Group. I obtained my Master's degree at Univeristy of Southern California. Before that, I obtained my bachelor's degree from the University of Science and Technology Beijing.
+I am a senior AI research engineer at BOE Technology Group. I obtained my Master's degree at Univeristy of Southern California. Before that, I obtained my bachelor's degree from the University of Science and Technology Beijing.
