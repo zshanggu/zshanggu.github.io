@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zeyu Shangguan / Senior AI Research Engineer"
+title                    : "Zeyu Shangguan / Ph.D. Student"
 title_separator          : "-"
 name                     : &name "Zeyu Shangguan"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "git_profile.jpeg"
   name             : "Zeyu Shangguan"
   pronouns         : # example: "she/her"  
-  bio              : "Senior AI Research Engineer"
+  bio              : "Ph.D. Student"
   location         : "Beijing/China"
   employer         : "University of Southern California"
   uri              : # URL
