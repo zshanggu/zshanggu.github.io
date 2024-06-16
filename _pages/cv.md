@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Professional title
+======
+* Certified AI Assistant Engineer, Beijing, 2023
 
 Education
 ======
@@ -29,3 +32,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Honors
+======
+* BOE Prominent Individual (highest honor), 2023
+* BOE Best Innovation Award, 2022
+* BOE Rising Star, 2021
+* Outstanding Graduates in Beijing, 2018
+* People’s Scholarship in China, 2014-2015; 2015-2016; 2016 -- 2017.
+* USTB Merit Student Scholarship, 2016 -- 2017.
