@@ -26,6 +26,6 @@ Past:
 Language
 ------
 - Chinese (Mandarin, Contonese)
-- English (Advanced)
+- English
 - Japanese (Beginner+)
 - Spanish (Beginner)
