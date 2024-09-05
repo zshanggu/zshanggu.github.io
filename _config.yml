@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zeyu Shangguan / Ph.D. Student"
+title                    : "Zeyu (Josh) Shangguan / Ph.D. Student"
 title_separator          : "-"
-name                     : &name "Zeyu Shangguan"
+name                     : &name "Zeyu (Josh) Shangguan"
 description              : &description "personal description"
 url                      : https://zshanggu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "git_profile.jpeg"
-  name             : "Zeyu Shangguan"
+  name             : "Zeyu (Josh) Shangguan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Los Angeles/CA/USA"
