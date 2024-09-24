@@ -1,7 +1,7 @@
 ---
 title: "TA/Grader"
 collection: teaching
-type: "AME341aL"
+type: "AME341aL: Mechoptronics Laboratory I"
 permalink: /teaching/2019-fall-teaching-1
 venue: "University of Southern California, Department of Aerospace and Mechanical Engineering"
 date: 2019-10-01
