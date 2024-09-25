@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-Decoupled-DETR-For-Few-shot-Object-Detection
 excerpt: 'Few-shot object detection'
 date: 2024-09-20
-venue: 'Asian Conference on Computer Vision (ACCV)'
+venue: 'Asian Conference on Computer Vision (ACCV, oral)'
 paperurl: 'https://arxiv.org/abs/2311.11570'
 citation: 'Zeyu Shangguan, Lian Huai, Tong Liu, Yuyu Liu, Xingqun Jiang (2024). &quot;Decoupled DETR For Few-shot Object Detection.&quot; <i>ACCV</i>.'
 ---
