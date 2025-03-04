@@ -5,7 +5,7 @@ permalink: /publication/2025-Cross-domain-Multi-modal-Few-shot-Object-Detection-
 excerpt: 'Cross-domain few-shot object detection'
 date: 2025-02-28
 venue: 'Winter Conference on Applications of Computer Vision (WACV)'
-paperurl: 'https://arxiv.org/abs/2403.16188'
+paperurl: 'https://openaccess.thecvf.com/content/WACV2025/html/Shangguan_Cross-Domain_Multi-Modal_Few-Shot_Object_Detection_via_Rich_Text_WACV_2025_paper.html'
 citation: 'Zeyu Shangguan, Daniel Seita, Mohammad Rostami (2025). &quot;Cross-domain Multi-modal Few-shot Object Detection via Rich Text.&quot; <i>WACV</i>.'
 ---
 
