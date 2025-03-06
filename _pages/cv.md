@@ -49,6 +49,7 @@ Services
 * Conference Reviewer:
   * ICLR2025
   * WACV2025
+  * IJCNN2025
   * IJCNN2024
 * Workshop Reviewer:
   * ICRA2024 Workshop 3D Manipulation
