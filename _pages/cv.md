@@ -38,8 +38,8 @@ Honors
 * BOE Best Innovation Award, 2022
 * BOE Rising Star, 2021
 * Outstanding Graduates in Beijing, 2018
-* People’s Scholarship in China, 2014-2015; 2015-2016; 2016 -- 2017.
-* USTB Merit Student Scholarship, 2016 -- 2017.
+* People’s Scholarship in China, 2014-2015; 2015-2016; 2016-2017.
+* USTB Merit Student Scholarship, 2016-2017.
 
 Services
 ======
