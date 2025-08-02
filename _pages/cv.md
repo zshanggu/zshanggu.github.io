@@ -52,5 +52,7 @@ Services
   * IJCNN2025
   * IJCNN2024
 * Workshop Reviewer:
+  * RSS2025 Workshop HitLRL
+  * RSS2025 Workshop OOD
   * ICRA2024 Workshop 3D Manipulation
   * ICRA2024 Workshop Agile Robotics
