@@ -1,6 +1,7 @@
 ---
 title: "Few-shot Object Detection with Refined Contrastive Learning"
 collection: publications
+category: conferences
 permalink: /publication/2023-Few-shot-Object-Detection-with-Refined-Contrastive-Learning
 excerpt: 'Few-shot learning, object detection'
 date: 2023-12-20

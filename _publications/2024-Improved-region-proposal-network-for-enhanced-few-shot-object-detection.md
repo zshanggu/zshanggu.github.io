@@ -1,6 +1,7 @@
 ---
 title: "Improved Region Proposal Network for Enhanced Few-shot Object Detection"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-Improved-region-proposal-network-for-enhanced-few-shot-object-detection
 excerpt: 'Few-shot object detection'
 date: 2024-09-03

@@ -1,6 +1,7 @@
 ---
 title: "Cross-domain Multi-modal Few-shot Object Detection via Rich Text"
 collection: publications
+category: conferences
 permalink: /publication/2025-Cross-domain-Multi-modal-Few-shot-Object-Detection-via-Rich-Text
 excerpt: 'Cross-domain few-shot object detection'
 date: 2025-02-28

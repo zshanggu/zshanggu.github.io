@@ -1,6 +1,7 @@
 ---
 title: "Decoupled DETR For Few-shot Object Detection"
 collection: publications
+category: conferences
 permalink: /publication/2024-Decoupled-DETR-For-Few-shot-Object-Detection
 excerpt: 'Few-shot object detection'
 date: 2024-12-08

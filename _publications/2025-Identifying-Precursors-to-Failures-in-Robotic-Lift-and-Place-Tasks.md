@@ -1,6 +1,7 @@
 ---
 title: "Identifying Precursors to Failures in Robotic Lift-and-Place Tasks"
 collection: publications
+category: workshops
 permalink: /publication/2025-Identifying-Precursors-to-Failures-in-Robotic-Lift-and-Place-Tasks
 excerpt: 'Failure Prediction'
 date: 2025-06-25

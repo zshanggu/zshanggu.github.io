@@ -1,6 +1,7 @@
 ---
 title: "Robot Learning from Any Images"
 collection: publications
+category: conferences
 permalink: /publication/2025-Robot-Learning-from-Any-Images
 excerpt: 'Real-Sim-Real'
 date: 2025-08-01

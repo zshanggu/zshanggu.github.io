@@ -1,6 +1,7 @@
 ---
 title: "Test-Time Linear Out-of-Distribution Detection"
 collection: publications
+category: conferences
 permalink: /publication/2024-Test-Time-Linear-Out-of-Distribution-Detection
 excerpt: 'Out-of-Distribution'
 date: 2024-07-10

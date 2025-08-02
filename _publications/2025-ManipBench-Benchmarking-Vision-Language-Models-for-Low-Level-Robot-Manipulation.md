@@ -1,6 +1,7 @@
 ---
 title: "ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation"
 collection: publications
+category: conferences
 permalink: /publication/2025-ManipBench-Benchmarking-Vision-Language-Models-for-Low-Level-Robot-Manipulation
 excerpt: 'Benchmark, VLM'
 date: 2025-08-01

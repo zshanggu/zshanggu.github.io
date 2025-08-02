@@ -1,6 +1,7 @@
 ---
 title: "Vision-Based Object Recognition and Precise Localization for Space Body Control"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-Vision-Based-Object-Recognition-and-Precise-Localization-for-Space-Body-Control
 excerpt: 'Feature matching'
 date: 2019-03-25

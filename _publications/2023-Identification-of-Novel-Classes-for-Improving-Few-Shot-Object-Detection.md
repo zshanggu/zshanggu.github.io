@@ -1,6 +1,7 @@
 ---
 title: "Identification of Novel Classes for Improving Few-Shot Object Detection"
 collection: publications
+category: workshops
 permalink: /publication/2023-Identification-of-Novel-Classes-for-Improving-Few-Shot-Object-Detection
 excerpt: 'Few-shot learning, object detection'
 date: 2023-12-25

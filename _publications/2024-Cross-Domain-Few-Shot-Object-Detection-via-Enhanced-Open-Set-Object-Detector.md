@@ -1,6 +1,7 @@
 ---
 title: "Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector"
 collection: publications
+category: conferences
 permalink: /publication/2024-Cross-Domain-Few-Shot-Object-Detection-via-Enhanced-Open-Set-Object-Detector
 excerpt: 'Cross-domain few-shot object detection'
 date: 2024-09-29

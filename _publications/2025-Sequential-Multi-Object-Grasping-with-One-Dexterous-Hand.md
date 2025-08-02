@@ -1,6 +1,7 @@
 ---
 title: "Sequential Multi-Object Grasping with One Dexterous Hand"
 collection: publications
+category: conferences
 permalink: /publication/2025-Sequential-Multi-Object-Grasping-with-One-Dexterous-Hand
 excerpt: 'Sequential dexterous grasping'
 date: 2025-06-15
