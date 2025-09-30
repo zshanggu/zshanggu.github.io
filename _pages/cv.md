@@ -44,13 +44,14 @@ Honors
 Services
 ======
 * Journal Reviewer:
-  * Pattern Recognition
-  * IET Image Processing
+  * Neurocomputing (NEUCOM)
+  * Journal of Visual Communication and Image Representation (JVCI)
+  * Pattern Recognition (PR)
+  * IET Image Processing (IETIP)
 * Conference Reviewer:
-  * ICLR2025
-  * WACV2025
-  * IJCNN2025
-  * IJCNN2024
+  * ICLR 2026, 2025
+  * WACV 2025
+  * IJCNN 2025, 2024
 * Workshop Reviewer:
   * RSS2025 Workshop HitLRL
   * RSS2025 Workshop OOD
